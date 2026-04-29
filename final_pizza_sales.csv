@@ -1,0 +1,331 @@
+order_details_id,quantity,order_id,date,time,name,category,pizza_id,size,price
+1,1,1,2015-01-01,11:38:36,"The Hawaiian Pizza",Classic,hawaiian_m,M,13.25
+6,1,2,2015-01-01,11:57:40,"The Thai Chicken Pizza",Chicken,thai_ckn_l,L,20.75
+5,1,2,2015-01-01,11:57:40,"The Mexicana Pizza",Veggie,mexicana_m,M,16
+4,1,2,2015-01-01,11:57:40,"The Italian Supreme Pizza",Supreme,ital_supr_l,L,20.75
+3,1,2,2015-01-01,11:57:40,"The Five Cheese Pizza",Veggie,five_cheese_l,L,18.5
+2,1,2,2015-01-01,11:57:40,"The Classic Deluxe Pizza",Classic,classic_dlx_m,M,16
+8,1,3,2015-01-01,12:12:28,"The Prosciutto and Arugula Pizza",Supreme,prsc_argla_l,L,20.75
+7,1,3,2015-01-01,12:12:28,"The Italian Supreme Pizza",Supreme,ital_supr_m,M,16.5
+9,1,4,2015-01-01,12:16:31,"The Italian Supreme Pizza",Supreme,ital_supr_m,M,16.5
+10,1,5,2015-01-01,12:21:30,"The Italian Supreme Pizza",Supreme,ital_supr_m,M,16.5
+12,1,6,2015-01-01,12:29:36,"The Greek Pizza",Classic,the_greek_s,S,12
+11,1,6,2015-01-01,12:29:36,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_s,S,12.75
+13,1,7,2015-01-01,12:50:37,"The Spinach Supreme Pizza",Supreme,spinach_supr_s,S,12.5
+14,1,8,2015-01-01,12:51:37,"The Spinach Supreme Pizza",Supreme,spinach_supr_s,S,12.5
+23,1,9,2015-01-01,12:52:01,"The Vegetables + Vegetables Pizza",Veggie,veggie_veg_s,S,12
+22,1,9,2015-01-01,12:52:01,"The Spinach Pesto Pizza",Veggie,spin_pesto_l,L,20.75
+21,1,9,2015-01-01,12:52:01,"The Spicy Italian Pizza",Supreme,spicy_ital_l,L,20.75
+20,1,9,2015-01-01,12:52:01,"The Mexicana Pizza",Veggie,mexicana_s,S,12
+19,1,9,2015-01-01,12:52:01,"The Italian Supreme Pizza",Supreme,ital_supr_s,S,12.5
+18,1,9,2015-01-01,12:52:01,"The Italian Supreme Pizza",Supreme,ital_supr_l,L,20.75
+17,1,9,2015-01-01,12:52:01,"The Italian Capocollo Pizza",Classic,ital_cpcllo_l,L,20.5
+16,1,9,2015-01-01,12:52:01,"The Green Garden Pizza",Veggie,green_garden_s,S,12
+15,1,9,2015-01-01,12:52:01,"The Classic Deluxe Pizza",Classic,classic_dlx_s,S,12
+25,1,10,2015-01-01,13:00:15,"The Southwest Chicken Pizza",Chicken,southw_ckn_l,L,20.75
+24,1,10,2015-01-01,13:00:15,"The Mexicana Pizza",Veggie,mexicana_l,L,20.25
+29,1,11,2015-01-01,13:02:59,"The Pepperoni Pizza",Classic,pepperoni_l,L,15.25
+28,1,11,2015-01-01,13:02:59,"The California Chicken Pizza",Chicken,cali_ckn_m,M,16.75
+27,1,11,2015-01-01,13:02:59,"The California Chicken Pizza",Chicken,cali_ckn_l,L,20.75
+26,1,11,2015-01-01,13:02:59,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_l,L,20.75
+33,1,12,2015-01-01,13:04:41,"The Italian Supreme Pizza",Supreme,ital_supr_m,M,16.5
+32,1,12,2015-01-01,13:04:41,"The Chicken Pesto Pizza",Chicken,ckn_pesto_l,L,20.75
+31,1,12,2015-01-01,13:04:41,"The California Chicken Pizza",Chicken,cali_ckn_s,S,12.75
+30,1,12,2015-01-01,13:04:41,"The California Chicken Pizza",Chicken,cali_ckn_l,L,20.75
+34,1,13,2015-01-01,13:11:55,"The Mexicana Pizza",Veggie,mexicana_l,L,20.25
+35,1,14,2015-01-01,13:14:19,"The Greek Pizza",Classic,the_greek_s,S,12
+39,1,15,2015-01-01,13:33:00,"The Greek Pizza",Classic,the_greek_s,S,12
+38,1,15,2015-01-01,13:33:00,"The Soppressata Pizza",Supreme,soppressata_l,L,20.75
+37,1,15,2015-01-01,13:33:00,"The Five Cheese Pizza",Veggie,five_cheese_l,L,18.5
+36,1,15,2015-01-01,13:33:00,"The Big Meat Pizza",Classic,big_meat_s,S,12
+42,1,16,2015-01-01,13:34:07,"The Thai Chicken Pizza",Chicken,thai_ckn_l,L,20.75
+41,1,16,2015-01-01,13:34:07,"The Napolitana Pizza",Classic,napolitana_s,S,12
+40,1,16,2015-01-01,13:34:07,"The Four Cheese Pizza",Veggie,four_cheese_l,L,17.95
+52,1,17,2015-01-01,13:53:00,"The Spinach and Feta Pizza",Veggie,spinach_fet_l,L,20.25
+51,1,17,2015-01-01,13:53:00,"The Pepper Salami Pizza",Supreme,peppr_salami_s,S,12.5
+50,1,17,2015-01-01,13:53:00,"The Mexicana Pizza",Veggie,mexicana_l,L,20.25
+49,2,17,2015-01-01,13:53:00,"The Mediterranean Pizza",Veggie,mediterraneo_m,M,16
+48,1,17,2015-01-01,13:53:00,"The Italian Vegetables Pizza",Veggie,ital_veggie_s,S,12.75
+47,1,17,2015-01-01,13:53:00,"The Italian Supreme Pizza",Supreme,ital_supr_m,M,16.5
+46,1,17,2015-01-01,13:53:00,"The Four Cheese Pizza",Veggie,four_cheese_m,M,14.75
+45,1,17,2015-01-01,13:53:00,"The Five Cheese Pizza",Veggie,five_cheese_l,L,18.5
+44,1,17,2015-01-01,13:53:00,"The Calabrese Pizza",Supreme,calabrese_m,M,16.25
+43,1,17,2015-01-01,13:53:00,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_l,L,20.75
+53,1,18,2015-01-01,13:57:08,"The Napolitana Pizza",Classic,napolitana_l,L,20.5
+55,1,19,2015-01-01,13:59:09,"The Sicilian Pizza",Supreme,sicilian_l,L,20.25
+54,1,19,2015-01-01,13:59:09,"The Italian Capocollo Pizza",Classic,ital_cpcllo_l,L,20.5
+57,1,20,2015-01-01,14:03:08,"The Five Cheese Pizza",Veggie,five_cheese_l,L,18.5
+56,1,20,2015-01-01,14:03:08,"The Big Meat Pizza",Classic,big_meat_s,S,12
+58,1,21,2015-01-01,14:14:29,"The Italian Capocollo Pizza",Classic,ital_cpcllo_l,L,20.5
+61,1,22,2015-01-01,14:16:26,"The Southwest Chicken Pizza",Chicken,southw_ckn_l,L,20.75
+60,1,22,2015-01-01,14:16:26,"The Italian Capocollo Pizza",Classic,ital_cpcllo_m,M,16
+59,1,22,2015-01-01,14:16:26,"The Five Cheese Pizza",Veggie,five_cheese_l,L,18.5
+62,1,23,2015-01-01,14:19:03,"The Southwest Chicken Pizza",Chicken,southw_ckn_s,S,12.75
+66,1,24,2015-01-01,14:23:01,"The Prosciutto and Arugula Pizza",Supreme,prsc_argla_s,S,12.5
+65,1,24,2015-01-01,14:23:01,"The Pepperoni Pizza",Classic,pepperoni_m,M,12.5
+64,1,24,2015-01-01,14:23:01,"The Italian Capocollo Pizza",Classic,ital_cpcllo_m,M,16
+63,1,24,2015-01-01,14:23:01,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_m,M,16.75
+68,1,25,2015-01-01,14:44:44,"The Thai Chicken Pizza",Chicken,thai_ckn_l,L,20.75
+67,1,25,2015-01-01,14:44:44,"The Sicilian Pizza",Supreme,sicilian_m,M,16.25
+70,1,26,2015-01-01,14:54:26,"The Vegetables + Vegetables Pizza",Veggie,veggie_veg_l,L,20.25
+69,1,26,2015-01-01,14:54:26,"The Classic Deluxe Pizza",Classic,classic_dlx_s,S,12
+73,1,27,2015-01-01,15:11:17,"The Spinach and Feta Pizza",Veggie,spinach_fet_l,L,20.25
+72,1,27,2015-01-01,15:11:17,"The Classic Deluxe Pizza",Classic,classic_dlx_m,M,16
+71,1,27,2015-01-01,15:11:17,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_l,L,20.75
+74,1,28,2015-01-01,15:35:46,"The Chicken Alfredo Pizza",Chicken,ckn_alfredo_s,S,12.75
+75,1,29,2015-01-01,15:41:01,"The Green Garden Pizza",Veggie,green_garden_s,S,12
+76,1,30,2015-01-01,15:41:25,"The Thai Chicken Pizza",Chicken,thai_ckn_l,L,20.75
+78,1,31,2015-01-01,15:50:18,"The Pepperoni Pizza",Classic,pepperoni_s,S,9.75
+77,1,31,2015-01-01,15:50:18,"The Mexicana Pizza",Veggie,mexicana_m,M,16
+82,1,32,2015-01-01,15:53:18,"The Italian Supreme Pizza",Supreme,ital_supr_m,M,16.5
+81,1,32,2015-01-01,15:53:18,"The Italian Capocollo Pizza",Classic,ital_cpcllo_l,L,20.5
+80,1,32,2015-01-01,15:53:18,"The Green Garden Pizza",Veggie,green_garden_l,L,20.25
+79,1,32,2015-01-01,15:53:18,"The Big Meat Pizza",Classic,big_meat_s,S,12
+84,1,33,2015-01-01,15:54:08,"The Green Garden Pizza",Veggie,green_garden_s,S,12
+83,1,33,2015-01-01,15:54:08,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_l,L,20.75
+85,1,34,2015-01-01,16:21:21,"The Greek Pizza",Classic,the_greek_s,S,12
+89,1,35,2015-01-01,16:32:04,"The Thai Chicken Pizza",Chicken,thai_ckn_l,L,20.75
+88,1,35,2015-01-01,16:32:04,"The Pepperoni Pizza",Classic,pepperoni_m,M,12.5
+87,1,35,2015-01-01,16:32:04,"The Pepperoni, Mushroom, and Peppers Pizza",Classic,pep_msh_pep_l,L,17.5
+86,1,35,2015-01-01,16:32:04,"The Green Garden Pizza",Veggie,green_garden_m,M,16
+91,1,36,2015-01-01,16:54:09,"The Classic Deluxe Pizza",Classic,classic_dlx_m,M,16
+90,1,36,2015-01-01,16:54:09,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_m,M,16.75
+93,1,37,2015-01-01,16:56:09,"The Mexicana Pizza",Veggie,mexicana_l,L,20.25
+92,1,37,2015-01-01,16:56:09,"The Italian Supreme Pizza",Supreme,ital_supr_l,L,20.75
+95,1,38,2015-01-01,17:03:00,"The Italian Capocollo Pizza",Classic,ital_cpcllo_l,L,20.5
+94,1,38,2015-01-01,17:03:00,"The Hawaiian Pizza",Classic,hawaiian_s,S,10.5
+96,1,39,2015-01-01,17:07:23,"The Italian Supreme Pizza",Supreme,ital_supr_l,L,20.75
+98,1,40,2015-01-01,17:14:36,"The Southwest Chicken Pizza",Chicken,southw_ckn_s,S,12.75
+97,1,40,2015-01-01,17:14:36,"The Four Cheese Pizza",Veggie,four_cheese_l,L,17.95
+100,1,41,2015-01-01,17:15:20,"The Green Garden Pizza",Veggie,green_garden_s,S,12
+99,1,41,2015-01-01,17:15:20,"The Four Cheese Pizza",Veggie,four_cheese_m,M,14.75
+104,1,42,2015-01-01,17:28:09,"The Pepper Salami Pizza",Supreme,peppr_salami_m,M,16.5
+103,1,42,2015-01-01,17:28:09,"The Mexicana Pizza",Veggie,mexicana_l,L,20.25
+102,1,42,2015-01-01,17:28:09,"The Five Cheese Pizza",Veggie,five_cheese_l,L,18.5
+101,1,42,2015-01-01,17:28:09,"The Big Meat Pizza",Classic,big_meat_s,S,12
+107,1,43,2015-01-01,17:38:34,"The Pepper Salami Pizza",Supreme,peppr_salami_l,L,20.75
+106,1,43,2015-01-01,17:38:34,"The Italian Supreme Pizza",Supreme,ital_supr_m,M,16.5
+105,1,43,2015-01-01,17:38:34,"The Chicken Alfredo Pizza",Chicken,ckn_alfredo_m,M,16.75
+108,1,44,2015-01-01,17:54:20,"The Spinach Pesto Pizza",Veggie,spin_pesto_s,S,12.5
+111,1,45,2015-01-01,17:55:48,"The Thai Chicken Pizza",Chicken,thai_ckn_m,M,16.75
+110,1,45,2015-01-01,17:55:48,"The Hawaiian Pizza",Classic,hawaiian_s,S,10.5
+109,1,45,2015-01-01,17:55:48,"The Four Cheese Pizza",Veggie,four_cheese_l,L,17.95
+114,1,46,2015-01-01,18:25:51,"The Thai Chicken Pizza",Chicken,thai_ckn_m,M,16.75
+113,1,46,2015-01-01,18:25:51,"The Classic Deluxe Pizza",Classic,classic_dlx_l,L,20.5
+112,1,46,2015-01-01,18:25:51,"The Chicken Pesto Pizza",Chicken,ckn_pesto_l,L,20.75
+116,1,47,2015-01-01,18:26:34,"The Vegetables + Vegetables Pizza",Veggie,veggie_veg_s,S,12
+115,1,47,2015-01-01,18:26:34,"The Southwest Chicken Pizza",Chicken,southw_ckn_l,L,20.75
+120,1,48,2015-01-01,18:26:42,"The Spicy Italian Pizza",Supreme,spicy_ital_l,L,20.75
+119,1,48,2015-01-01,18:26:42,"The Prosciutto and Arugula Pizza",Supreme,prsc_argla_l,L,20.75
+118,1,48,2015-01-01,18:26:42,"The Green Garden Pizza",Veggie,green_garden_s,S,12
+117,1,48,2015-01-01,18:26:42,"The Chicken Pesto Pizza",Chicken,ckn_pesto_m,M,16.75
+121,1,49,2015-01-01,18:33:00,"The Sicilian Pizza",Supreme,sicilian_l,L,20.25
+122,1,50,2015-01-01,18:41:01,"The Greek Pizza",Classic,the_greek_xl,XL,25.5
+124,1,51,2015-01-01,18:48:28,"The Pepperoni, Mushroom, and Peppers Pizza",Classic,pep_msh_pep_l,L,17.5
+123,1,51,2015-01-01,18:48:28,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_l,L,20.75
+127,1,52,2015-01-01,18:53:02,"The Spicy Italian Pizza",Supreme,spicy_ital_l,L,20.75
+126,1,52,2015-01-01,18:53:02,"The Mexicana Pizza",Veggie,mexicana_l,L,20.25
+125,1,52,2015-01-01,18:53:02,"The Hawaiian Pizza",Classic,hawaiian_l,L,16.5
+129,1,53,2015-01-01,18:54:17,"The Spinach Supreme Pizza",Supreme,spinach_supr_m,M,16.5
+128,1,53,2015-01-01,18:54:17,"The Pepperoni, Mushroom, and Peppers Pizza",Classic,pep_msh_pep_s,S,11
+131,1,54,2015-01-01,19:01:45,"The Thai Chicken Pizza",Chicken,thai_ckn_l,L,20.75
+130,1,54,2015-01-01,19:01:45,"The Prosciutto and Arugula Pizza",Supreme,prsc_argla_m,M,16.5
+133,1,55,2015-01-01,19:03:19,"The Spicy Italian Pizza",Supreme,spicy_ital_l,L,20.75
+132,1,55,2015-01-01,19:03:19,"The Pepper Salami Pizza",Supreme,peppr_salami_s,S,12.5
+136,1,56,2015-01-01,19:07:00,"The Southwest Chicken Pizza",Chicken,southw_ckn_m,M,16.75
+135,1,56,2015-01-01,19:07:00,"The Mediterranean Pizza",Veggie,mediterraneo_l,L,20.25
+134,1,56,2015-01-01,19:07:00,"The Classic Deluxe Pizza",Classic,classic_dlx_m,M,16
+137,1,57,2015-01-01,19:10:51,"The Classic Deluxe Pizza",Classic,classic_dlx_m,M,16
+139,1,58,2015-01-01,19:30:40,"The Pepperoni Pizza",Classic,pepperoni_m,M,12.5
+138,1,58,2015-01-01,19:30:40,"The Five Cheese Pizza",Veggie,five_cheese_l,L,18.5
+142,1,59,2015-01-01,19:40:08,"The Pepperoni Pizza",Classic,pepperoni_l,L,15.25
+141,1,59,2015-01-01,19:40:08,"The Pepperoni, Mushroom, and Peppers Pizza",Classic,pep_msh_pep_s,S,11
+140,1,59,2015-01-01,19:40:08,"The Italian Vegetables Pizza",Veggie,ital_veggie_s,S,12.75
+144,1,60,2015-01-01,20:05:16,"The Four Cheese Pizza",Veggie,four_cheese_m,M,14.75
+143,1,60,2015-01-01,20:05:16,"The Chicken Pesto Pizza",Chicken,ckn_pesto_l,L,20.75
+146,1,61,2015-01-01,20:08:43,"The Italian Supreme Pizza",Supreme,ital_supr_l,L,20.75
+145,1,61,2015-01-01,20:08:43,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_m,M,16.75
+148,1,62,2015-01-01,20:50:16,"The Spinach Supreme Pizza",Supreme,spinach_supr_m,M,16.5
+147,1,62,2015-01-01,20:50:16,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_m,M,16.75
+149,1,63,2015-01-01,20:51:42,"The Pepperoni, Mushroom, and Peppers Pizza",Classic,pep_msh_pep_m,M,14.5
+150,1,64,2015-01-01,20:52:08,"The Big Meat Pizza",Classic,big_meat_s,S,12
+154,1,65,2015-01-01,21:16:00,"The Spinach Supreme Pizza",Supreme,spinach_supr_m,M,16.5
+153,1,65,2015-01-01,21:16:00,"The Spicy Italian Pizza",Supreme,spicy_ital_s,S,12.5
+152,1,65,2015-01-01,21:16:00,"The Sicilian Pizza",Supreme,sicilian_s,S,12.25
+151,1,65,2015-01-01,21:16:00,"The Pepperoni, Mushroom, and Peppers Pizza",Classic,pep_msh_pep_s,S,11
+156,1,66,2015-01-01,21:47:55,"The Italian Capocollo Pizza",Classic,ital_cpcllo_m,M,16
+155,1,66,2015-01-01,21:47:55,"The Classic Deluxe Pizza",Classic,classic_dlx_m,M,16
+157,1,67,2015-01-01,22:03:40,"The Southwest Chicken Pizza",Chicken,southw_ckn_l,L,20.75
+160,1,68,2015-01-01,22:07:32,"The Italian Supreme Pizza",Supreme,ital_supr_m,M,16.5
+159,1,68,2015-01-01,22:07:32,"The Italian Supreme Pizza",Supreme,ital_supr_l,L,20.75
+158,1,68,2015-01-01,22:07:32,"The Classic Deluxe Pizza",Classic,classic_dlx_m,M,16
+161,1,69,2015-01-01,22:12:13,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_l,L,20.75
+163,1,70,2015-01-02,11:38:51,"The Soppressata Pizza",Supreme,soppressata_l,L,20.75
+162,1,70,2015-01-02,11:38:51,"The Italian Vegetables Pizza",Veggie,ital_veggie_s,S,12.75
+164,1,71,2015-01-02,11:40:50,"The Thai Chicken Pizza",Chicken,thai_ckn_l,L,20.75
+165,1,72,2015-01-02,11:57:25,"The Spinach and Feta Pizza",Veggie,spinach_fet_l,L,20.25
+166,1,73,2015-01-02,11:58:56,"The Thai Chicken Pizza",Chicken,thai_ckn_s,S,12.75
+170,1,74,2015-01-02,12:01:12,"The Spinach Supreme Pizza",Supreme,spinach_supr_l,L,20.75
+169,1,74,2015-01-02,12:01:12,"The Spinach Pesto Pizza",Veggie,spin_pesto_s,S,12.5
+168,1,74,2015-01-02,12:01:12,"The Mexicana Pizza",Veggie,mexicana_l,L,20.25
+167,1,74,2015-01-02,12:01:12,"The Five Cheese Pizza",Veggie,five_cheese_l,L,18.5
+173,1,75,2015-01-02,12:10:15,"The Napolitana Pizza",Classic,napolitana_l,L,20.5
+172,1,75,2015-01-02,12:10:15,"The Mediterranean Pizza",Veggie,mediterraneo_l,L,20.25
+171,1,75,2015-01-02,12:10:15,"The Italian Supreme Pizza",Supreme,ital_supr_s,S,12.5
+177,1,76,2015-01-02,12:21:17,"The Spicy Italian Pizza",Supreme,spicy_ital_l,L,20.75
+176,1,76,2015-01-02,12:21:17,"The Italian Vegetables Pizza",Veggie,ital_veggie_l,L,21
+175,1,76,2015-01-02,12:21:17,"The Hawaiian Pizza",Classic,hawaiian_l,L,16.5
+174,1,76,2015-01-02,12:21:17,"The Big Meat Pizza",Classic,big_meat_s,S,12
+179,1,77,2015-01-02,12:22:46,"The Hawaiian Pizza",Classic,hawaiian_m,M,13.25
+178,1,77,2015-01-02,12:22:46,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_m,M,16.75
+185,1,78,2015-01-02,12:28:14,"The Thai Chicken Pizza",Chicken,thai_ckn_s,S,12.75
+184,3,78,2015-01-02,12:28:14,"The Spicy Italian Pizza",Supreme,spicy_ital_l,L,20.75
+183,1,78,2015-01-02,12:28:14,"The Italian Capocollo Pizza",Classic,ital_cpcllo_m,M,16
+182,1,78,2015-01-02,12:28:14,"The Four Cheese Pizza",Veggie,four_cheese_l,L,17.95
+181,1,78,2015-01-02,12:28:14,"The Classic Deluxe Pizza",Classic,classic_dlx_s,S,12
+180,1,78,2015-01-02,12:28:14,"The Big Meat Pizza",Classic,big_meat_s,S,12
+188,1,79,2015-01-02,12:29:11,"The Thai Chicken Pizza",Chicken,thai_ckn_l,L,20.75
+187,1,79,2015-01-02,12:29:11,"The Pepperoni, Mushroom, and Peppers Pizza",Classic,pep_msh_pep_s,S,11
+186,1,79,2015-01-02,12:29:11,"The Italian Capocollo Pizza",Classic,ital_cpcllo_l,L,20.5
+190,1,80,2015-01-02,12:35:38,"The Thai Chicken Pizza",Chicken,thai_ckn_m,M,16.75
+189,1,80,2015-01-02,12:35:38,"The Pepperoni Pizza",Classic,pepperoni_s,S,9.75
+191,1,81,2015-01-02,12:40:01,"The Thai Chicken Pizza",Chicken,thai_ckn_l,L,20.75
+195,1,82,2015-01-02,12:45:51,"The Vegetables + Vegetables Pizza",Veggie,veggie_veg_m,M,16
+194,1,82,2015-01-02,12:45:51,"The Spicy Italian Pizza",Supreme,spicy_ital_l,L,20.75
+193,1,82,2015-01-02,12:45:51,"The California Chicken Pizza",Chicken,cali_ckn_m,M,16.75
+192,1,82,2015-01-02,12:45:51,"The Big Meat Pizza",Classic,big_meat_s,S,12
+196,1,83,2015-01-02,12:53:27,"The Southwest Chicken Pizza",Chicken,southw_ckn_s,S,12.75
+197,1,84,2015-01-02,13:13:41,"The Pepperoni Pizza",Classic,pepperoni_l,L,15.25
+201,1,85,2015-01-02,13:34:49,"The Greek Pizza",Classic,the_greek_m,M,16
+200,1,85,2015-01-02,13:34:49,"The Italian Supreme Pizza",Supreme,ital_supr_l,L,20.75
+199,1,85,2015-01-02,13:34:49,"The Classic Deluxe Pizza",Classic,classic_dlx_s,S,12
+198,1,85,2015-01-02,13:34:49,"The Classic Deluxe Pizza",Classic,classic_dlx_m,M,16
+202,1,86,2015-01-02,13:40:31,"The Hawaiian Pizza",Classic,hawaiian_l,L,16.5
+206,1,87,2015-01-02,14:01:02,"The Spinach Supreme Pizza",Supreme,spinach_supr_s,S,12.5
+205,1,87,2015-01-02,14:01:02,"The Spinach Supreme Pizza",Supreme,spinach_supr_l,L,20.75
+204,1,87,2015-01-02,14:01:02,"The Mexicana Pizza",Veggie,mexicana_m,M,16
+203,1,87,2015-01-02,14:01:02,"The Italian Capocollo Pizza",Classic,ital_cpcllo_m,M,16
+207,1,88,2015-01-02,14:10:08,"The Five Cheese Pizza",Veggie,five_cheese_l,L,18.5
+209,1,89,2015-01-02,14:30:19,"The Thai Chicken Pizza",Chicken,thai_ckn_l,L,20.75
+208,1,89,2015-01-02,14:30:19,"The Soppressata Pizza",Supreme,soppressata_l,L,20.75
+211,1,90,2015-01-02,15:08:48,"The Thai Chicken Pizza",Chicken,thai_ckn_s,S,12.75
+210,1,90,2015-01-02,15:08:48,"The Sicilian Pizza",Supreme,sicilian_l,L,20.25
+214,1,91,2015-01-02,15:14:43,"The Pepperoni Pizza",Classic,pepperoni_s,S,9.75
+213,1,91,2015-01-02,15:14:43,"The Chicken Pesto Pizza",Chicken,ckn_pesto_s,S,12.75
+212,2,91,2015-01-02,15:14:43,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_l,L,20.75
+223,2,92,2015-01-02,15:17:02,"The Greek Pizza",Classic,the_greek_m,M,16
+222,1,92,2015-01-02,15:17:02,"The Spinach Supreme Pizza",Supreme,spinach_supr_s,S,12.5
+221,1,92,2015-01-02,15:17:02,"The Spinach and Feta Pizza",Veggie,spinach_fet_s,S,12
+220,1,92,2015-01-02,15:17:02,"The Pepper Salami Pizza",Supreme,peppr_salami_m,M,16.5
+219,1,92,2015-01-02,15:17:02,"The Pepperoni Pizza",Classic,pepperoni_m,M,12.5
+218,1,92,2015-01-02,15:17:02,"The Italian Vegetables Pizza",Veggie,ital_veggie_s,S,12.75
+217,1,92,2015-01-02,15:17:02,"The Italian Supreme Pizza",Supreme,ital_supr_m,M,16.5
+216,1,92,2015-01-02,15:17:02,"The Italian Supreme Pizza",Supreme,ital_supr_l,L,20.75
+215,1,92,2015-01-02,15:17:02,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_m,M,16.75
+224,1,93,2015-01-02,15:29:31,"The Sicilian Pizza",Supreme,sicilian_m,M,16.25
+226,1,94,2015-01-02,16:17:16,"The Southwest Chicken Pizza",Chicken,southw_ckn_s,S,12.75
+225,1,94,2015-01-02,16:17:16,"The Italian Capocollo Pizza",Classic,ital_cpcllo_m,M,16
+228,1,95,2015-01-02,16:18:04,"The Pepper Salami Pizza",Supreme,peppr_salami_l,L,20.75
+227,1,95,2015-01-02,16:18:04,"The Napolitana Pizza",Classic,napolitana_s,S,12
+229,1,96,2015-01-02,16:21:20,"The Napolitana Pizza",Classic,napolitana_s,S,12
+230,1,97,2015-01-02,16:45:33,"The Big Meat Pizza",Classic,big_meat_s,S,12
+232,1,98,2015-01-02,17:18:18,"The Napolitana Pizza",Classic,napolitana_l,L,20.5
+231,1,98,2015-01-02,17:18:18,"The Classic Deluxe Pizza",Classic,classic_dlx_l,L,20.5
+233,1,99,2015-01-02,17:45:42,"The Italian Supreme Pizza",Supreme,ital_supr_l,L,20.75
+234,1,100,2015-01-02,17:46:17,"The Hawaiian Pizza",Classic,hawaiian_l,L,16.5
+238,1,101,2015-01-02,17:51:33,"The Spicy Italian Pizza",Supreme,spicy_ital_m,M,16.5
+237,1,101,2015-01-02,17:51:33,"The Soppressata Pizza",Supreme,soppressata_l,L,20.75
+236,1,101,2015-01-02,17:51:33,"The Pepperoni Pizza",Classic,pepperoni_l,L,15.25
+235,1,101,2015-01-02,17:51:33,"The California Chicken Pizza",Chicken,cali_ckn_l,L,20.75
+240,1,102,2015-01-02,17:54:04,"The Prosciutto and Arugula Pizza",Supreme,prsc_argla_s,S,12.5
+239,1,102,2015-01-02,17:54:04,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_s,S,12.75
+241,1,103,2015-01-02,18:02:09,"The Spinach Supreme Pizza",Supreme,spinach_supr_s,S,12.5
+245,1,104,2015-01-02,18:02:12,"The Vegetables + Vegetables Pizza",Veggie,veggie_veg_l,L,20.25
+244,1,104,2015-01-02,18:02:12,"The Italian Vegetables Pizza",Veggie,ital_veggie_m,M,16.75
+243,1,104,2015-01-02,18:02:12,"The Chicken Alfredo Pizza",Chicken,ckn_alfredo_m,M,16.75
+242,1,104,2015-01-02,18:02:12,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_m,M,16.75
+248,1,105,2015-01-02,18:12:01,"The Prosciutto and Arugula Pizza",Supreme,prsc_argla_m,M,16.5
+247,1,105,2015-01-02,18:12:01,"The Pepperoni Pizza",Classic,pepperoni_l,L,15.25
+246,2,105,2015-01-02,18:12:01,"The Hawaiian Pizza",Classic,hawaiian_s,S,10.5
+250,1,106,2015-01-02,18:12:13,"The Spicy Italian Pizza",Supreme,spicy_ital_l,L,20.75
+249,1,106,2015-01-02,18:12:13,"The Mexicana Pizza",Veggie,mexicana_l,L,20.25
+254,1,107,2015-01-02,18:25:09,"The Vegetables + Vegetables Pizza",Veggie,veggie_veg_l,L,20.25
+253,1,107,2015-01-02,18:25:09,"The Spicy Italian Pizza",Supreme,spicy_ital_l,L,20.75
+252,1,107,2015-01-02,18:25:09,"The Italian Supreme Pizza",Supreme,ital_supr_m,M,16.5
+251,1,107,2015-01-02,18:25:09,"The California Chicken Pizza",Chicken,cali_ckn_l,L,20.75
+257,1,108,2015-01-02,18:25:25,"The Spinach Supreme Pizza",Supreme,spinach_supr_l,L,20.75
+256,1,108,2015-01-02,18:25:25,"The Hawaiian Pizza",Classic,hawaiian_l,L,16.5
+255,1,108,2015-01-02,18:25:25,"The Classic Deluxe Pizza",Classic,classic_dlx_l,L,20.5
+261,1,109,2015-01-02,18:27:50,"The Prosciutto and Arugula Pizza",Supreme,prsc_argla_l,L,20.75
+260,1,109,2015-01-02,18:27:50,"The Pepperoni Pizza",Classic,pepperoni_m,M,12.5
+259,1,109,2015-01-02,18:27:50,"The Italian Supreme Pizza",Supreme,ital_supr_l,L,20.75
+258,1,109,2015-01-02,18:27:50,"The Italian Capocollo Pizza",Classic,ital_cpcllo_l,L,20.5
+265,1,110,2015-01-02,18:36:19,"The Spicy Italian Pizza",Supreme,spicy_ital_s,S,12.5
+264,1,110,2015-01-02,18:36:19,"The Soppressata Pizza",Supreme,soppressata_l,L,20.75
+263,1,110,2015-01-02,18:36:19,"The Napolitana Pizza",Classic,napolitana_l,L,20.5
+262,1,110,2015-01-02,18:36:19,"The Big Meat Pizza",Classic,big_meat_s,S,12
+269,1,111,2015-01-02,18:38:01,"The Spinach Pesto Pizza",Veggie,spin_pesto_l,L,20.75
+268,1,111,2015-01-02,18:38:01,"The Pepperoni Pizza",Classic,pepperoni_m,M,12.5
+267,1,111,2015-01-02,18:38:01,"The Five Cheese Pizza",Veggie,five_cheese_l,L,18.5
+266,1,111,2015-01-02,18:38:01,"The California Chicken Pizza",Chicken,cali_ckn_m,M,16.75
+270,1,112,2015-01-02,18:41:40,"The Pepperoni Pizza",Classic,pepperoni_s,S,9.75
+273,1,113,2015-01-02,18:50:21,"The Southwest Chicken Pizza",Chicken,southw_ckn_m,M,16.75
+272,1,113,2015-01-02,18:50:21,"The Mexicana Pizza",Veggie,mexicana_l,L,20.25
+271,1,113,2015-01-02,18:50:21,"The California Chicken Pizza",Chicken,cali_ckn_l,L,20.75
+275,1,114,2015-01-02,18:59:32,"The Sicilian Pizza",Supreme,sicilian_s,S,12.25
+274,1,114,2015-01-02,18:59:32,"The Pepperoni Pizza",Classic,pepperoni_l,L,15.25
+278,1,115,2015-01-02,19:05:17,"The Thai Chicken Pizza",Chicken,thai_ckn_m,M,16.75
+277,1,115,2015-01-02,19:05:17,"The Napolitana Pizza",Classic,napolitana_l,L,20.5
+276,1,115,2015-01-02,19:05:17,"The Big Meat Pizza",Classic,big_meat_s,S,12
+279,1,116,2015-01-02,19:18:49,"The Five Cheese Pizza",Veggie,five_cheese_l,L,18.5
+281,1,117,2015-01-02,19:23:02,"The Sicilian Pizza",Supreme,sicilian_l,L,20.25
+280,1,117,2015-01-02,19:23:02,"The Pepper Salami Pizza",Supreme,peppr_salami_m,M,16.5
+283,1,118,2015-01-02,19:26:59,"The Spinach and Feta Pizza",Veggie,spinach_fet_s,S,12
+282,1,118,2015-01-02,19:26:59,"The Prosciutto and Arugula Pizza",Supreme,prsc_argla_l,L,20.75
+284,1,119,2015-01-02,19:32:29,"The Four Cheese Pizza",Veggie,four_cheese_m,M,14.75
+287,1,120,2015-01-02,19:35:07,"The Spinach and Feta Pizza",Veggie,spinach_fet_l,L,20.25
+286,1,120,2015-01-02,19:35:07,"The Hawaiian Pizza",Classic,hawaiian_s,S,10.5
+285,1,120,2015-01-02,19:35:07,"The Classic Deluxe Pizza",Classic,classic_dlx_s,S,12
+291,1,121,2015-01-02,19:38:48,"The Southwest Chicken Pizza",Chicken,southw_ckn_l,L,20.75
+290,1,121,2015-01-02,19:38:48,"The Sicilian Pizza",Supreme,sicilian_l,L,20.25
+289,1,121,2015-01-02,19:38:48,"The Four Cheese Pizza",Veggie,four_cheese_l,L,17.95
+288,1,121,2015-01-02,19:38:48,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_m,M,16.75
+292,1,122,2015-01-02,19:50:19,"The Italian Supreme Pizza",Supreme,ital_supr_m,M,16.5
+293,1,123,2015-01-02,20:12:09,"The Italian Capocollo Pizza",Classic,ital_cpcllo_s,S,12
+297,1,124,2015-01-02,20:12:34,"The Greek Pizza",Classic,the_greek_s,S,12
+296,1,124,2015-01-02,20:12:34,"The Spicy Italian Pizza",Supreme,spicy_ital_l,L,20.75
+295,1,124,2015-01-02,20:12:34,"The Sicilian Pizza",Supreme,sicilian_l,L,20.25
+294,1,124,2015-01-02,20:12:34,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_s,S,12.75
+298,1,125,2015-01-02,20:31:06,"The Greek Pizza",Classic,the_greek_xl,XL,25.5
+299,1,126,2015-01-02,20:53:42,"The Vegetables + Vegetables Pizza",Veggie,veggie_veg_l,L,20.25
+300,1,127,2015-01-02,20:58:23,"The Pepperoni Pizza",Classic,pepperoni_m,M,12.5
+301,1,128,2015-01-02,21:05:06,"The Spicy Italian Pizza",Supreme,spicy_ital_s,S,12.5
+303,1,129,2015-01-02,21:13:02,"The Greek Pizza",Classic,the_greek_m,M,16
+302,1,129,2015-01-02,21:13:02,"The Big Meat Pizza",Classic,big_meat_s,S,12
+307,1,130,2015-01-02,21:14:55,"The Southwest Chicken Pizza",Chicken,southw_ckn_s,S,12.75
+306,1,130,2015-01-02,21:14:55,"The Mexicana Pizza",Veggie,mexicana_m,M,16
+305,1,130,2015-01-02,21:14:55,"The Italian Capocollo Pizza",Classic,ital_cpcllo_l,L,20.5
+304,1,130,2015-01-02,21:14:55,"The Hawaiian Pizza",Classic,hawaiian_s,S,10.5
+311,1,131,2015-01-02,21:33:10,"The Spinach Supreme Pizza",Supreme,spinach_supr_s,S,12.5
+310,1,131,2015-01-02,21:33:10,"The Green Garden Pizza",Veggie,green_garden_s,S,12
+309,1,131,2015-01-02,21:33:10,"The Five Cheese Pizza",Veggie,five_cheese_l,L,18.5
+308,1,131,2015-01-02,21:33:10,"The Chicken Pesto Pizza",Chicken,ckn_pesto_l,L,20.75
+312,1,132,2015-01-02,21:42:45,"The Pepperoni Pizza",Classic,pepperoni_s,S,9.75
+315,1,133,2015-01-02,22:00:17,"The Greek Pizza",Classic,the_greek_s,S,12
+314,1,133,2015-01-02,22:00:17,"The Hawaiian Pizza",Classic,hawaiian_l,L,16.5
+313,1,133,2015-01-02,22:00:17,"The Barbecue Chicken Pizza",Chicken,bbq_ckn_l,L,20.75
+318,1,134,2015-01-02,22:13:24,"The Spinach Supreme Pizza",Supreme,spinach_supr_s,S,12.5
+317,1,134,2015-01-02,22:13:24,"The Southwest Chicken Pizza",Chicken,southw_ckn_l,L,20.75
+316,1,134,2015-01-02,22:13:24,"The Big Meat Pizza",Classic,big_meat_s,S,12
+319,1,135,2015-01-02,22:29:34,"The Vegetables + Vegetables Pizza",Veggie,veggie_veg_l,L,20.25
+321,1,136,2015-01-02,22:32:49,"The Pepper Salami Pizza",Supreme,peppr_salami_s,S,12.5
+320,1,136,2015-01-02,22:32:49,"The Five Cheese Pizza",Veggie,five_cheese_l,L,18.5
+324,1,137,2015-01-03,11:34:10,"The Spicy Italian Pizza",Supreme,spicy_ital_m,M,16.5
+323,1,137,2015-01-03,11:34:10,"The Pepperoni Pizza",Classic,pepperoni_s,S,9.75
+322,1,137,2015-01-03,11:34:10,"The Mediterranean Pizza",Veggie,mediterraneo_l,L,20.25
+328,1,138,2015-01-03,11:44:50,"The Sicilian Pizza",Supreme,sicilian_m,M,16.25
+327,1,138,2015-01-03,11:44:50,"The Italian Vegetables Pizza",Veggie,ital_veggie_l,L,21
+326,1,138,2015-01-03,11:44:50,"The Four Cheese Pizza",Veggie,four_cheese_l,L,17.95
+325,1,138,2015-01-03,11:44:50,"The California Chicken Pizza",Chicken,cali_ckn_m,M,16.75
+329,1,139,2015-01-03,11:57:39,"The Five Cheese Pizza",Veggie,five_cheese_l,L,18.5
+330,1,140,2015-01-03,12:26:44,"The Prosciutto and Arugula Pizza",Supreme,prsc_argla_s,S,12.5
